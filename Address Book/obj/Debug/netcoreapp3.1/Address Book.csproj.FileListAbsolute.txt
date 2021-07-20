@@ -1,0 +1,13 @@
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.exe
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.deps.json
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.runtimeconfig.json
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.runtimeconfig.dev.json
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.dll
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\bin\Debug\netcoreapp3.1\Address Book.pdb
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.AssemblyReference.cache
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfoInputs.cache
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.AssemblyInfo.cs
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.dll
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.pdb
+C:\Users\kisho\Day-9 Address Book\Address Book\Address Book\obj\Debug\netcoreapp3.1\Address Book.genruntimeconfig.cache
