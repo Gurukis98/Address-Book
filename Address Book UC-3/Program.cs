@@ -21,7 +21,7 @@ namespace Address_Book_UC_3
             Console.WriteLine("State: " + state);
             Console.WriteLine("Zip: " + zip);
             Console.WriteLine("PhoneNumber: " + phonenumber);
-            Console.WriteLine("EMail: " + email);
+            Console.WriteLine("EMail.: " + email);
         }
     }
 }
