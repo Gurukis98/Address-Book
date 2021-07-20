@@ -27,7 +27,7 @@ namespace Address_Book_UC_2
             Console.WriteLine("Please Enter your PhoneNumber");
             string str7 = Console.ReadLine();
 
-            Console.WriteLine("Please Enter your EMail");
+            Console.WriteLine("Please Enter your EMail.");
             string str8 = Console.ReadLine();
         }
     }
