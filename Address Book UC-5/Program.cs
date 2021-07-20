@@ -53,7 +53,7 @@ namespace Address_Book_UC_5
             Console.WriteLine("Please Enter your PhoneNumber");
             string str15 = Console.ReadLine();
 
-            Console.WriteLine("Please Enter your EMail");
+            Console.WriteLine("Please Enter your EMail.");
             string str16 = Console.ReadLine();
         }
     }
