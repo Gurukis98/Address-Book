@@ -6,22 +6,29 @@ namespace Address_Book_UC_3
     {
        public static void Main(string[] args)
         {
-            string firstname = "Guruprasanth";
-            string lastname = "Prabaharan";
-            string address = "NB-3,Chemicals Colony,Mettur Dam-2.";
-            string city = "Salem";
-            string state = "Tamil Nadu";
-            string zip = "636402";
-            string phonenumber = "8056907796";
-            string email = "kishoreguru01@gmail.com";
-            Console.WriteLine("FirstName: " + firstname);
-            Console.WriteLine("LastName: " + lastname);
-            Console.WriteLine("Address: " + address);
-            Console.WriteLine("City: " + city);
-            Console.WriteLine("State: " + state);
-            Console.WriteLine("Zip: " + zip);
-            Console.WriteLine("PhoneNumber: " + phonenumber);
-            Console.WriteLine("EMail.: " + email);
+            Console.WriteLine("Please Enter your FirstName");
+            string str1 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your LastName");
+            string str2 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your Address");
+            string str3 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your City");
+            string str4 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your State");
+            string str5 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your Zip");
+            string str6 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your PhoneNumber");
+            string str7 = Console.ReadLine();
+
+            Console.WriteLine("Please Enter your EMail.");
+            string str8 = Console.ReadLine();
         }
     }
 }
