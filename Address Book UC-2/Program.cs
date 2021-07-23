@@ -6,7 +6,7 @@ namespace Address_Book_UC_2
     {
        public static void Main(string[] args)
         {
-            Console.WriteLine("Enter Person2 Contact);
+            Console.WriteLine("Enter Person2 Contact");
             Console.WriteLine("Please Enter your FirstName");
             string str1 = Console.ReadLine();
 
